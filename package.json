@@ -1,0 +1,20 @@
+{
+  "name": "jwt-auth",
+  "version": "1.0.0",
+  "description": "auth with jwt ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osman144/jwt-auth.git"
+  },
+  "author": "salah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osman144/jwt-auth/issues"
+  },
+  "homepage": "https://github.com/osman144/jwt-auth#readme"
+}
